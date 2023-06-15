@@ -5,6 +5,8 @@
 
 ## 技能应用：
 使用了Python进行数据清洗和分析，使用了Pandas和Numpy等工具对数据进行处理和计算，并使用了Matplotlib和Seaborn等工具进行数据可视化。
+数据爬取使用[易采集/EasySpider: Visual Code-Free Web Crawler](https://github.com/NaiboWang/EasySpider)，一个可视化爬虫软件，可以无代码图形化的设计和执行爬虫任务，感谢🙏Naibo Wang。
+
 
 ## 结果呈现：
 使用了可视化图表，对福州二手房市场进行了直观的展示和分析。给出二手房的需求参数如是否随时可看、是否满二、是否满五、是否带车位、是否地铁房、层高、面积、几室	、几厅、几卫、几阳、行政区域、靠近哪些商圈等给出预测单价和总价，并保存预测参数和预测结果到result.xlsx文件
